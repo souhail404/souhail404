@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @souhail404
-- 👀 I’m interested in web developpement
-- 🌱 I’m currently learning javascript and python 
+- 👀 I'am a web devloper
+- 🌱 I’m currently learning framework
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me elabbouyisouhail@gmail.com
 
