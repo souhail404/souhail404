@@ -13,8 +13,8 @@ I'm [Your Name], a [Your Profession] from [Your Country]. Welcome to my Github p
 
 #### Github Stats
 
-![Your Github Stats](https://github-readme-stats.vercel.app/api?username=[Your Username]&show_icons=true&theme=dracula)
+![Your Github Stats](https://github-readme-stats.vercel.app/api?username=souhail404&show_icons=true&theme=dracula)
 
 #### Top Languages
 
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[Your Username]&layout=compact&theme=dracula)
+![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=souhail404&layout=compact&theme=dracula)
