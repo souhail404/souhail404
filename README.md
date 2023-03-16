@@ -9,7 +9,7 @@
 
 ## 🧐 About me
 
-I'am web designer & full-stack web developer based in Morocco with over 1 year of experiance in building websites and landing pages. In addition i'm studying my master dgree in management and commerce.
+I'am a web designer & full-stack web developer based in Morocco with over 1 year of experiance in building websites and landing pages. In addition i'm studying my master dgree in management and commerce.
 
 ## 🔧 Skills & Tools
 
@@ -29,7 +29,7 @@ Build some awsome projects
 
 ## 🌟 Top Projects
 
-- [Project 1](Link to project)
+- [[Project 1](https://github.com/souhail404/alkisaria-react-v)](Link to project)
 - [Project 2](Link to project)
 - [Project 3](Link to project)
 
