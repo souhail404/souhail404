@@ -7,11 +7,11 @@
 
 ---
 
-### 🧐 About me
+# 🧐 About me
 
 I'm a Web devloper from Morocco. I love to [Your hobby or interest], and I'm passionate about Football. I enjoy coding, and I'm always looking for new challenges to tackle.
 
-### 🔧 Skills & Tools
+## 🔧 Skills & Tools
 
 <img src="https://img.shields.io/badge/Code-[Language 1]-informational?style=flat&logo=[Language 1 logo]&logoColor=white&color=[Language 1 color]"> <img src="https://img.shields.io/badge/Code-[Language 2]-informational?style=flat&logo=[Language 2 logo]&logoColor=white&color=[Language 2 color]"> <img src="https://img.shields.io/badge/Tool-[Tool 1]-informational?style=flat&logo=[Tool 1 logo]&logoColor=white&color=[Tool 1 color]"> <img src="https://img.shields.io/badge/Tool-[Tool 2]-informational?style=flat&logo=[Tool 2 logo]&logoColor=white&color=[Tool 2 color]">
 
