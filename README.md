@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Souhail 👋</h2>
+<h1 align="center">Hi there, I'm Souhail 👋</h1>
 <p align="center">
   <a href="[Your website or LinkedIn URL]">Website</a> •
   <a href="mailto:[Your email address]">Email</a> •
