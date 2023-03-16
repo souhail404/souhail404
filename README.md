@@ -9,7 +9,7 @@
 
 ## 🧐 About me
 
-I'm a Web devloper from Morocco. I love to [Your hobby or interest], and I'm passionate about Football. I enjoy coding, and I'm always looking for new challenges to tackle.
+I'am web designer & full-stack web developer based in Morocco with over 1 year of experiance in building websites and landing pages. In addition i'm studying my master dgree in management and commerce.
 
 ## 🔧 Skills & Tools
 
@@ -17,11 +17,11 @@ I'm a Web devloper from Morocco. I love to [Your hobby or interest], and I'm pas
 
 ## 🌱 I’m currently learning
 
-Back-end devlopment 
+I'm learning blockchain programming(solidity - hardhat)
 
 ## 💡 Goals for 2023
 
-My goal is to be a full-stack devloper
+Build some awsome projects
 
 ## 📈 Github Stats
 
