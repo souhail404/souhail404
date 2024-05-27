@@ -27,8 +27,4 @@ Build some awsome projects
 
 <p><img src="https://github-readme-stats.vercel.app/api?username=souhail404&show_icons=true&count_private=true&hide_border=true" alt="Your Github Stats"></p>
 
-## 🌟 Top Projects
-
-- [[Alkisaria](https://github.com/souhail404/alkisaria-react-v)]
-- [[Portal sports](https://github.com/souhail404/portal-sport)]
 
