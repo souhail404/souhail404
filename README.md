@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Souhail 👋</h1>
 <p align="center">
-  <a href="[Your website or LinkedIn URL]">Website</a> •
-  <a href="mailto:[Your email address]">Email</a> •
-  <a href="[Your Twitter or other social media URL]">Twitter</a>
+  <a href="https://souhailweb.vercel.app/">Website</a> •
+  <a href="mailto:elabbouyisouhail@gmail.com">Email</a> •
+  <a href="https://x.com/SouhailDev">Twitter</a>
 </p>
 
 ---
